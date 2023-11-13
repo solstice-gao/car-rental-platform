@@ -1,6 +1,6 @@
 <div>
 
-简体中文 | [English](./README.en.md)
+[简体中文](./README.md) | English
 
 <h1>Car rental platform</h1>
 <p>和为贵; 善为本; 诚为先</p>

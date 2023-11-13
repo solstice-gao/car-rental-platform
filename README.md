@@ -8,34 +8,34 @@
 
 ---
 
-## 🎉 特性
+## 🎉 Features
 
-- 💪 支持多租户、多公司
-- 🌍 项目实际应用
-- 👏 良好的类型定义
-- 🚀 跨平台 PC、手机端、平板
+- 💪 Supports multiple tenants and companies
+- 🌍 Practical application of the project
+- 👏 Well-defined types
+- 🚀 Cross-platform: PC, mobile, tablet
 
-## 🌐 仓库地址
-此项目分为三个部分组成
-1. 🎇 h5-rental-car（基于uniapp，当前所在)
-2. 🚀 web-rental-car（基于arco.design）
-3. 🛸 server-rental-car（基于 SpringBoot2.7.x）
+## Test
+This project consists of three parts
+1. 🎇 h5-rental-car (based on uniapp, current location)
+2. 🚀 web-rental-car (based on arco.design)
+3. 🛸 server-rental-car (based on SpringBoot 2.7.x)
+- [🌏 H5 Test Address](https://aigc-api.ga666666.cn/#/?key=123)
+- [🐳 Backend Test Address](https://aigc-web.ga666666.cn/) Username: test Password: test
 
-- [🌐 github 仓库地址](https://gitee.com/gao666666/car-rental-platform)
+## 🌐 Repository Addresses
+- [🌐 GitHub Repository Address](https://github.com/gao666666/car-rental-platform)
+- [🌐 Gitee Repository Address](https://gitee.com/gao666666/car-rental-platform)
 
-- [🌐 码云仓库地址](https://gitee.com/gao666666/car-rental-platform)
+## 🍻 Discussion QQ Group
 
-## 🍻 讨论 QQ 群
-
-- 请我们喝杯咖啡，打赏后联系 QQ 631783123 邀请您进入讨论群（由于用户数较多，如果您打赏后未通过好友请求，请联系商家），不管您请还是不请，您都可以享受到开源的代码，感谢您的支持和信任，群内提供
-  Car rental platform 基础版本、开发工具自动配置教程及项目开发文档。
+- Buy us a cup of coffee, contact QQ 631783123 after the donation to invite you to the discussion group (due to the large number of users, if you have not been added after the donation, please contact the merchant). Whether you donate or not, you can enjoy the open-source code. Thank you for your support and trust. The group provides Car rental platform basic version, development tool automatic configuration tutorials, and project development documents.
 
 <table>
 <tr>
-车辆管理后台
+Vehicle management background
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WechatIMG1071.jpg">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1071.jpg">
 </td>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1051.jpg">
@@ -43,19 +43,16 @@ WechatIMG1071.jpg">
 </tr>
 </table>
 
-## 🔊 友情链接
+## 🔊 Friendly Links
 
-- [OPSLI 基于 vue-admin-better 开源版的最佳实践](https://github.com/hiparker/opsli-boot)
+- [OPSLI Best Practice Based on vue-admin-better Open Source Edition](https://github.com/hiparker/opsli-boot)
+- [uView, the best UI framework in the uni-app ecosystem](https://github.com/YanxinNet/uView/)
+- [form-generator Element Form Design Code Generator](https://github.com/JakHuang/form-generator/)
+- [wangEditor, the strongest open-source rich text editor in China](https://github.com/wangeditor-team/wangEditor)
 
-- [uView uni-app 生态最优秀的 UI 框架](https://github.com/YanxinNet/uView/)
+## 🙈 Sponsorship
 
-- [form-generator Element 表单设计代码生成器](https://github.com/JakHuang/form-generator/)
-
-- [wangEditor 国产最强开源富文本编辑](https://github.com/wangeditor-team/wangEditor)
-
-## 🙈 赞助
-
-- 如果您觉得 Car rental platform 帮到了您 ，如果情况允许，您可以选择赞助以下项目
+- If you feel that Car rental platform has helped you, and if the situation allows, you can choose to sponsor the following projects
 
 <a title="vue" href="https://opencollective.com/vuejs" target="_blank">
 <img width="64px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/vue.png"/>
@@ -67,7 +64,7 @@ WechatIMG1071.jpg">
 <img width="64px" src="https://images.opencollective.com/ant-design-vue/2ec179b/logo/256.png"/>
 </a>
 
-## 👷 框架杰出贡献者
+## 👷 Framework Outstanding Contributors
 
 <a href="https://github.com/fwfmiao" target="_blank">
 <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/29328241?s=50"/>
@@ -88,21 +85,19 @@ WechatIMG1071.jpg">
 <img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/24790218?s=50"/>
 </a>
 
+## 💚 Suitable Audience
 
-## 💚 适合人群
+- Those who are currently developing or want to develop a car rental platform.
+- Familiar with the Java Vue.js technology stack and have developed several practical projects with it.
+- Students who are interested in the underlying technology and want to advance and improve.
 
-- 正在以及想开发租车平台的人。
-- 熟悉 Java Vue.js 技术栈，使用它开发过几个实际项目。
-- 对原理技术感兴趣，想进阶和提升的同学。
+## 🗃️ Screenshots
 
-
-## 🗃️ 效果图
-
-以下是截取的是 pro 版的效果图展示：
+Here are some screenshots:
 
 <table>
 <tr>
-车辆管理后台
+Vehicle management background
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG85.jpg">
 </td>
@@ -112,18 +107,15 @@ WechatIMG1071.jpg">
 </tr>
 <tr>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114722.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114722.png">
 </td>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114551.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114551.png">
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114531.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114531.png">
 </td>
 <td>
 
@@ -131,7 +123,7 @@ WX20231113-114531.png">
 </tr>
 </table>
 
-以下是截取的是小程序、H5 网页的效果图展示：
+Here are some screenshots of the mini-program, H5 webpage:
 
 <table>
 <tr>
@@ -141,16 +133,14 @@ WX20231113-114531.png">
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114832.png">
 </td>
-</tr>
-<tr>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114850.png">
 </td>
+</tr>
+<tr>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114908.png">
 </td>
-</tr>
-<tr>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WeChata60cc23171fa348ea5e306522a30e4f8.jpg">
 </td>
@@ -158,7 +148,6 @@ WX20231113-114531.png">
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-115020.png">
 </td>
 </tr>
-
 <tr>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-115034.png">
@@ -166,27 +155,20 @@ WX20231113-114531.png">
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-115127.png">
 </td>
-</tr>
-
-<tr>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-115142.png">
-</td>
-<td>
 </td>
 </tr>
 </table>
 
-## 📄 商用注意事项
-本项目采用：Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)协议
-* 允许学习和非商业用途下使用、修改和分享项目。
-* 要求他人在使用时提供适当的署名。
-* 限制了商业用途，商业用途需要额外的许可。
-* 任何以修改的形式分发的派生作品必须采用相同的许可证。
-如果方便就留个 Star 吧
+## 📄 Commercial Usage Notes
+This project is licensed under the LGPL 3.0 license.
+* LGPL 3.0 is mainly used for cases where proprietary modules can be mixed with free modules. If a program is released under the LGPL license, you can use the program as a library for other programs without worrying that the license of the program will affect other programs.
+* If you modify software licensed under LGPL 3.0 and provide it as a library to others, you need to disclose the modified source code to ensure that users can obtain the modified source code.
+* LGPL 3.0 allows non-open source software to dynamically link to the library without having to disclose the source code. However, if it is statically linked, LGPL 3.0 license requirements must be followed.
+* If you provide services based on LGPL 3.0 licensed software on the network, you must provide the modified source code.
+* Commercial use is restricted, and additional licenses are required for commercial use.
 
-<!-- ，请遵守 MITCC BY-NC-SA 协议并保留作者技术支持声明，当然如果不愿意保留可以删掉，毕竟我也拿您没办法，能帮到您也当是给自己积德了，商业授权版本的相关说明如下：
-本人只参与了前期小部分的开发，所以不必跟开源版做对比，同事的代码功底比我好太多，我自愧不如，关于买这件事，没有强买强卖，您愿意买就买，不愿意买就忽略。我们不高尚，写代码就是为了养家糊口，不是为了用爱发电。这几年看到那么多开源项目借鉴了我们付费版本的布局、主题配置的灵感和创意，一开始我是鄙视的，现在还好状态调整过来了，能够被借鉴，被讨论恰好说明了我们的产品有价值，为了产品卖的更好我们也必须更加用心的去维护付费版本以保持我们产品的竞争力。
-当然，最后还有几句话不得不说，身处互联网由盛转衰的大变革的洪流中，能活下来就已经是千难万难了，希望所有的程序员哥哥姐姐们，早日实现自己的梦想，完成自己的心愿，也想对刚要毕业准备做一名程序员的学弟学妹们说几句，互联网行业没有你们想象的那么高大上，如果想成为一名程序员那就做好加班的准备，如果有更好的选择那就别选这个行业了。 -->
+If it's convenient, leave a Star!
 
 </div>

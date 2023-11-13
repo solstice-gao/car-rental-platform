@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@yidun/quickpass-sdk-one-login-h5": "^2.3.3",
+    "got": "^13.0.0",
+    "uuid": "^9.0.0",
+    "uview-ui": "^2.0.36"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.1.0"
+  },
+  "uni-app": {
+    "scripts": {
+      "test_env": {
+        "title": "测试环境",
+        "browser": "",
+        "env": {
+          "UNI_PLATFORM": "h5",
+          "SERVER_BASE_URL": "http://localhost:9999"
+        },
+        "define": {
+          "CUSTOM-CONST": true
+        }
+      },
+      "prod_env": {
+        "title": "生产环境",
+        "browser": "",
+        "env": {
+          "UNI_PLATFORM": "h5",
+          "SERVER_BASE_URL": "http://localhost:9999"
+        },
+        "define": {
+          "CUSTOM-CONST": true
+        }
+      }
+    }
+  }
+}

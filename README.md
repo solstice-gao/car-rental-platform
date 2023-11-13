@@ -34,8 +34,7 @@
 <tr>
 车辆管理后台
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WechatIMG1071.jpg">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1071.jpg">
 </td>
 <td>
 <img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WechatIMG1051.jpg">
@@ -112,18 +111,15 @@ WechatIMG1071.jpg">
 </tr>
 <tr>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114722.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114722.png">
 </td>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114551.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114551.png">
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/
-WX20231113-114531.png">
+<img src="https://gitee.com/gao666666/car-rental-platform/raw/master/images/WX20231113-114531.png">
 </td>
 <td>
 
